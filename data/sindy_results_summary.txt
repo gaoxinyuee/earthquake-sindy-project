@@ -1,0 +1,13 @@
+SINDy Earthquake Physics Analysis Results
+========================================
+
+Best Model Equations:
+0.000
+0.000
+0.000
+0.000
+
+Theoretical Equations:
+x: dx/dt = v
+state: dstate/dt = 1.000000e-07*(exp((f0-state)/b) - v/V0)
+tau: dtau/dt = 5.000000e-04 - 5.000000e+05*v
