@@ -1,0 +1,7 @@
+SINDy Diagnostic Results
+=======================
+
+Correlation between dx/dt and v: 0.230406
+Correlation between dtau/dt and theory: 0.524974
+Correlation between dstate/dt and exp term: -0.048317
+Correlation between dstate/dt and velocity term: 0.724282
